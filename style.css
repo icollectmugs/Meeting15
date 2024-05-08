@@ -1,0 +1,51 @@
+h1{
+    font-size: 50pt;
+    color: rgb(223, 181, 46);
+    text-align: center;
+}
+h5{
+    color: rgb(102, 60, 6);
+    text-align: center;
+}
+.img1{
+    width: 1000px;
+    height: 500px;
+    border: 20px solid rgba(182, 181, 181, 0.281);
+    margin: 20px auto;
+    display: block;
+}
+.p1{
+    font-size: 30pt;
+    color: rgb(243, 197, 72);
+    text-align: center;
+}
+h3{
+    font-size: 40pt;
+    margin: 90px;
+    padding: 10px;
+}
+.img2{
+    background-color: rgba(220, 220, 220, 0.637);
+}
+.card{
+    margin: 0 auto;
+    display: block;
+}
+.container{
+    background-color: antiquewhite;
+    opacity: 0.6;
+}
+.card-container{
+    display: flex;
+}
+body{
+    background-image: url(./assets/cover1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    opacity: 0.5;
+}
+img:hover {
+    opacity: 1;
+}
